@@ -1,0 +1,15 @@
+langserve
+fastapi
+uvicorn
+sse_starlette
+bs4
+pypdf
+chromadb
+faiss-cpu
+wikipedia
+arxiv
+langchainhub
+groq
+streamlit
+sentence_transformers
+langchain-groq
