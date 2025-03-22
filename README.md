@@ -14,7 +14,7 @@ Ensure you have Python 3.8+ installed. Then, clone the repository and install de
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/chatgroq-observability-rag.git
+git clone https://github.com/Langsmith-Observability-ChatGroq/chatgroq-observability-rag.git
 cd chatgroq-observability-rag
 
 # Create a virtual environment (optional but recommended)
